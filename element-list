@@ -3,8 +3,11 @@ event
 graphics
 graphics.renderer
 input
+io
 physics
+postprocess
 scenes
 tiles
 util
+util.debug
 util.specs
